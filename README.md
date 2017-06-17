@@ -1,1 +1,2 @@
-最新版的在DeepKnower中
+1.最新版的在DeepKnower中
+2.下一版本进行中文验证码识别
