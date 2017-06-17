@@ -1,2 +1,1 @@
-#captcha_rec
-#captcha_reco
+最新版的在DeepKnower中
